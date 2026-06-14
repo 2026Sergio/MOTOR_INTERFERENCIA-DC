@@ -1,0 +1,1 @@
+## Explicacion del proyecto y de las dos funciones que pedia.
