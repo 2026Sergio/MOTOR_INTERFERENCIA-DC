@@ -1,4 +1,4 @@
-# Explicación del Proyecto — Motor de Inferencia DC
+# Explicación del Proyecto — Motor de Inferencia Diagnostico de computadoras.
 
 ## Descripción General
 

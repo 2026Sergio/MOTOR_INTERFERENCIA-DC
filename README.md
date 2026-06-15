@@ -36,14 +36,14 @@ Se modificó el motor de inferencia para mostrar todos los diagnósticos posible
 
 ## Documentación
 
-Este es el principal y el que tiene el contenido de lo que se le agrego;
+Este es el principal y el que tiene el contenido de lo que se le agrego, tambien tiene la estructura y la ruta de todos los archivos;
 [explicacion.md](explicacion.md)
 
-Las 11 preguntas de reflexion:
+Aqui se encuentra las 11 preguntas de reflexion que se habian puesto en el enunciado:
 [reflexion.md](Trabajo/docs/reflexion.md)
 
-Explica la modularizacion del codigo y como se estructura:
+Explica la modularizacion del codigo y como se estructura el codigo, explica que hace cada archivo py:
 [modularizacion.md](Trabajo/python/modularizacion.md)
 
-Contribuciones:
+Las contribuciones del proyecto donde obiamente solo hubo un integrante:  
 [CONTRIBUTING.md](CONTRIBUTING.md)
