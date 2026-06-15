@@ -11,11 +11,12 @@ El sistema realiza preguntas al usuario sobre los síntomas que presenta su comp
 ## Estructura del Proyecto
 
 ```text
-MOTOR_INTERFERENCIA-DC-main/
+MOTOR_INTERFERENCIA-DC
 │
 ├── README.md
 ├── CONTRIBUTING.md
 ├── explicacion.md
+├── .gitignore
 │
 └── trabajo/
     ├── docs/
